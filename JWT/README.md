@@ -11,4 +11,4 @@ JWT is commonly used for **authentication and authorization**, especially in mod
 
 ### 🖼️ JWT Token Representation
 
-<img src="jwt.png" alt="JWT Token Structure" width="300"/>
+<img src="./jwt-json-web-tokens9313.logowik.com.webp" alt="JWT Token Structure" width="300"/>
